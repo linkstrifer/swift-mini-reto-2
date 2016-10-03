@@ -1,4 +1,5 @@
 //: Mini-reto-2
+// https://github.com/linkstrifer/swift-mini-reto-2
 
 enum velocidades : Int {
     case apagado = 0
